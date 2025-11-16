@@ -104,7 +104,8 @@ node scripts/testeRateLimit.js
 **hax**
 
 > Building secure and modern integrations 🌙
-> GitHub: [@6hax](https://github.com/6hax)
+> GitHub: [@hax](https://github.com/i1lo)
+
 
 
 
